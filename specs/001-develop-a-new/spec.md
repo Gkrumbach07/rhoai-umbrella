@@ -1,5 +1,15 @@
 # Feature Specification: Space Size Investigation and Optimization
 
+```
+ _______  _______  _______  _______
+|       ||       ||       ||       |
+|  _____||    _  ||    ___||       |
+| |_____ |   |_| ||   |___ |       |
+|_____  ||    ___||    ___||      _|
+ _____| ||   |    |   |___ |     |_
+|_______||___|    |_______||_______|
+```
+
 **Feature Branch**: `001-develop-a-new`
 **Created**: 2025-10-10
 **Status**: Draft

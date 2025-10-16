@@ -1,5 +1,13 @@
 # Rhyming Documentation Titles
 
+```
+ ______     ______   ______
+/\  == \   /\  ___\ /\  ___\
+\ \  __<   \ \  __\ \ \  __\
+ \ \_\ \_\  \ \_\    \ \_____\
+  \/_/ /_/   \/_/     \/_____/
+```
+
 **What We're Building:**
 
 A systematic update to all ODH Dashboard documentation and README files to transform traditional section headers into rhyming titles. This feature aims to make documentation more memorable, engaging, and fun to navigate while maintaining technical accuracy and professionalism. The transformation applies to all markdown files in the odh-dashboard repository, including the main README, CONTRIBUTING guide, and all documentation in the `/docs` directory.
